@@ -1,2 +1,2 @@
-Hello Github! /add git status
+Hello Github! I can code!
 
