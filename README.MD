@@ -1,1 +1,1 @@
-Hello Tech exploration!
+Hello people!
